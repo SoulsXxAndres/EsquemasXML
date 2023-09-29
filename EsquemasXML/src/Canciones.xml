@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Canciones>
+
+    <Cancion>
+        <Duracion>4:19</Duracion>
+        <Anio>2012</Anio>
+
+        <Titulo>Enamorado tuyo</Titulo>
+
+        <Compositores>
+            <Compositor>
+                <Nombres>Santiago</Nombres>
+                <Apellido>Tavella</Apellido>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombres>Juan</Nombres>
+                <Apellidos>Campodónico</Apellidos>
+            </Productor>
+        </Productores>
+
+        <Sello>Warner Music Argentina</Sello>
+
+        <Artista>Cuarteto de Nos</Artista>
+    </Cancion>
+
+    <Cancion>
+        <Duracion>4:30</Duracion>
+        <Anio>2018</Anio>
+
+        <Titulo>Murder on my mind</Titulo>
+
+        <Compositores>
+            <Compositor>
+                <Nombres>YNW Melly</Nombres>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombres>SMKEXCLSV</Nombres>
+            </Productor>
+        </Productores>
+
+        <Sello>300 Entertainment</Sello>
+
+        <Artista>YNW Melly</Artista>
+    </Cancion>
+
+    <Cancion>
+        <Duracion>4:12</Duracion>
+        <Anio>2022</Anio>
+
+        <Titulo>Exist for love</Titulo>
+
+        <Compositores>
+            <Compositor>
+                <Nombres>AURORA</Nombres>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombres>Magnus</Nombres>
+                <Apellidos>Skylstad</Apellidos>
+            </Productor>
+        </Productores>
+
+        <Sello>Decca Records</Sello>
+
+        <Artista>AURORA</Artista>
+    </Cancion>
+
+</Canciones>
