@@ -1,8 +1,8 @@
-<!DOCTYPE Canciones [
         <!ELEMENT Canciones (Cancion)*>
-        <!ELEMENT Cancion (Duracion|Anio|Titulo|Compositores|Productores|Sello|Artista)*>
-        <!ELEMENT Duracion (#PCDATA)>
-        <!ELEMENT Anio (#PCDATA)>
+        <!ELEMENT Cancion (Titulo|Compositores|Productores|Sello|Artista)*>
+        <!ATTLIST Cancion
+                anio CDATA #REQUIRED
+                duracion CDATA #REQUIRED>
         <!ELEMENT Titulo (#PCDATA)>
         <!ELEMENT Compositores (Compositor)*>
         <!ELEMENT Compositor (Nombres|Apellido)*>
@@ -13,4 +13,3 @@
         <!ELEMENT Apellidos (#PCDATA)>
         <!ELEMENT Sello (#PCDATA)>
         <!ELEMENT Artista (#PCDATA)>
-        ]>
